@@ -18,7 +18,7 @@ Load the 'movies.csv' dataset, sample 10001 rows, and assign it to a DataFrame n
 I will load the 'movies.csv' dataset using pandas, sample 10001 rows from it, and assign the sampled data to a DataFrame named `df_012020043`.
 """
 
-!pip
+pip
 
 import pandas as pd
 
