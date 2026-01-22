@@ -13,8 +13,3 @@ The app is exposed to the web using **ngrok** tunneling.
 - **[Feature 3]**: [e.g., "Generates downloadable reports"]
 - **[Feature 4]**: [e.g., "Uses GPU acceleration"]
 
-## 🛠️ Prerequisites
-
-To run this notebook, you need:
-1. A **Google Account** (to access Colab).
-2. An **ngrok** account (for the authentication token).
